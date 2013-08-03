@@ -3,5 +3,6 @@ civgame
 
 unfinished game with little cute humans
 
-# Requirements
+Requirements
+------------
 * latest pygame
